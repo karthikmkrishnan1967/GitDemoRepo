@@ -4,6 +4,8 @@
          xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
          version="2.5">
   <display-name>Webapp</display-name>
+  <display-name>Karthik</display-name>
+  <display-name>Sarah</display-name>
   <!--
   <servlet>
   <servlet-name>HelloWorldExample_Test</servlet-name>
